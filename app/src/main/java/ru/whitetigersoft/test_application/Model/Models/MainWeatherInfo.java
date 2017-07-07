@@ -10,9 +10,9 @@ public class MainWeatherInfo {
 
     @SerializedName("temp")
     private double averageTemperature;
-    @SerializedName("max_temp")
+    @SerializedName("temp_max")
     private double maxTemp;
-    @SerializedName("min_temp")
+    @SerializedName("temp_min")
     private double minTemp;
 
     public double getAverageTemperature() {
