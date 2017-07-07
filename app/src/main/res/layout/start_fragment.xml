@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_offer_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/button_enter"
+        android:fontFamily="sans-serif-medium"
+        android:letterSpacing="0.04"
+        android:layout_margin="32dp"
+        android:text="@string/title_authorization"
+        android:textColor="#ffffff"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+</LinearLayout>

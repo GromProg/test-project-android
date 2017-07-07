@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">test_application</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_email">Электронная почта</string>
+    <string name="hint_password">Пароль</string>
+    <string name="short_password_error">Пароль слишком простой</string>
+    <string name="wrong_email_error">Неправильный email</string>
+    <string name="empty_email_error">Пустой email</string>
+
+    <!-- Buttons -->
+    <string name="button_enter">Войти</string>
+
+
+    <!-- title Strings -->
+    <string name="title_authorization">Авторизация</string>
+    <string name="title_forget_password">Забыли пароль</string>
+
+</resources>
